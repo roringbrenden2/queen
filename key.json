@@ -1,9 +1,9 @@
 [
   {
     "id": "d683fbdde5faf560",
-    "username": "queen",
-    "password": "123",
-    "expiresAt": "2027-12-27",
+    "username": "admin",
+    "password": "admin",
+    "expiresAt": "2027-05-31",
     "allowOffline": true
   },
   {
