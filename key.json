@@ -4,7 +4,7 @@
     "username": "Queen",
     "password": "123",
     "expiresAt": "2026-05-28",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "6d95fal7c7e40bea",
