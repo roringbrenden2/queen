@@ -747,6 +747,6 @@
     "password": "pass2",
     "expiresAt": "2026-05-30",
     "allowOffline": true
-  },
+  }
  ]
 
