@@ -404,8 +404,8 @@
     "password": "123",
     "expiresAt": "2027-05-31",
     "allowOffline": true
- },
- {
+  },
+  {
     "id": "293502062cc0ca14",
     "username": "axel1",
     "password": "123",
