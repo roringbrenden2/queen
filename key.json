@@ -606,6 +606,6 @@
     "username": "tes",
     "password": "tes",
     "expiresAt": "2027-08-30",
-    "allowOffline": true
+    "allowOffline": false
   }
 ]
