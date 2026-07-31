@@ -18,10 +18,10 @@
     "username": "Roby12",
     "password": "111",
     "expiresAt": "2027-05-31",
-    "allowOffline": true 
+    "allowOffline": true
   },
   {
-   "id": "dc4cae1dbc4e62fd",
+    "id": "dc4cae1dbc4e62fd",
     "username": "Roby13",
     "password": "111",
     "expiresAt": "2027-05-31",
@@ -593,83 +593,5 @@
     "password": "123",
     "expiresAt": "2027-05-31",
     "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user",
-    "password": "pass",
-    "expiresAt": "2027-05-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user",
-    "password": "pass",
-    "expiresAt": "2027-05-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user",
-    "password": "pass",
-    "expiresAt": "2027-05-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user",
-    "password": "pass",
-    "expiresAt": "2027-05-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user",
-    "password": "pass",
-    "expiresAt": "2027-05-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user",
-    "password": "pass",
-    "expiresAt": "2027-05-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user",
-    "password": "pass",
-    "expiresAt": "2027-05-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user",
-    "password": "pass",
-    "expiresAt": "2027-05-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user",
-    "password": "pass",
-    "expiresAt": "2027-05-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user",
-    "password": "pass",
-    "expiresAt": "2027-05-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user",
-    "password": "pass",
-    "expiresAt": "2027-05-31",
-    "allowOffline": true
   }
 ]
-
