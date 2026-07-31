@@ -600,12 +600,5 @@
     "password": "tes",
     "expiresAt": "2027-07-31",
     "allowOffline": true
-  },
-  {
-    "id": "Ufuvivkbkbidtxlc",
-    "username": "Tez",
-    "password": "tez",
-    "expiresAt": "2027-07-31",
-    "allowOffline": true
   }
 ]
