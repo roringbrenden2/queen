@@ -4,27 +4,27 @@
     "username": "ciman",
     "password": "123",
     "expiresAt": "2027-11-23",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "1dba14dfdf8e1757",
     "username": "ciman1",
     "password": "123",
     "expiresAt": "2027-11-23",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "4c203cfad7909a27",
     "username": "melky",
     "password": "123",
     "expiresAt": "2027-11-23",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "8938066bbb8759e2",
     "username": "melky1",
     "password": "123",
     "expiresAt": "2027-11-23",
-    "allowOffline": true
+    "allowOffline": false
   }
 ]
