@@ -102,13 +102,13 @@
     "username": "123",
     "password": "123",
     "expiresAt": "2028-10-23",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "84f533c48670a6d3",
     "username": "123",
     "password": "123",
     "expiresAt": "2028-10-24",
-    "allowOffline": true
+    "allowOffline": false
   }
 ]
