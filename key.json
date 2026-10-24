@@ -31,7 +31,14 @@
     "id": "88b73a3774e7a2e4",
     "username": "Devit",
     "password": "123",
-    "expiresAt": "2027-10-24",
+    "expiresAt": "2027-11-23",
+    "allowOffline": false
+  },
+  {
+    "id": "4a7f9347bd553750",
+    "username": "Devit1",
+    "password": "123",
+    "expiresAt": "2027-11-23",
     "allowOffline": false
   }
 ]
