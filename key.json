@@ -152,5 +152,12 @@
     "password": "123",
     "expiresAt": "2027-11-24",
     "allowOffline": false
+  },
+  {
+    "id": "1ea0d343c759cc41",
+    "username": "Gibe",
+    "password": "123",
+    "expiresAt": "2027-11-24",
+    "allowOffline": false
   }
 ]
