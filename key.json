@@ -96,5 +96,12 @@
     "password": "111",
     "expiresAt": "2028-01-22",
     "allowOffline": false
+  },
+  {
+    "id": "b4a88bafb85c3018",
+    "username": "123",
+    "password": "123",
+    "expiresAt": "2028-10-23",
+    "allowOffline": true
   }
 ]
