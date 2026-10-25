@@ -242,6 +242,6 @@
     "username": "delan",
     "password": "111",
     "expiresAt": "2027-11-24",
-    "allowOffline": true
+    "allowOffline": false
   }
 ]
