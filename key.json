@@ -186,6 +186,13 @@
     "username": "111",
     "password": "111",
     "expiresAt": "2028-01-23",
-    "allowOffline": true
+    "allowOffline": false
+  },
+  {
+    "id": "618441dcfa64802f",
+    "username": "Koko",
+    "password": "123",
+    "expiresAt": "2027-11-24",
+    "allowOffline": false
   }
 ]
