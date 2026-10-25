@@ -257,5 +257,12 @@
     "password": "123",
     "expiresAt": "2027-11-24",
     "allowOffline": false
+  },
+  {
+    "id": "7cbb2a3f08e4393a",
+    "username": "Andri",
+    "password": "123",
+    "expiresAt": "2027-11-24",
+    "allowOffline": false
   }
 ]
