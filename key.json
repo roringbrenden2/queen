@@ -304,6 +304,13 @@
     "id": "1e3245fc4b72541b",
     "username": "Novri",
     "password": "123",
+    "expiresAt": "2027-12-24",
+    "allowOffline": false
+  },
+  {
+    "id": "b90546ce2ec71d05",
+    "username": "Timothi",
+    "password": "123",
     "expiresAt": "2027-11-24",
     "allowOffline": false
   }
