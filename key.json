@@ -432,5 +432,12 @@
     "password": "123",
     "expiresAt": "2027-11-25",
     "allowOffline": false
+  },
+  {
+    "id": "6a030eddbffbb53a",
+    "username": "Viko1",
+    "password": "123",
+    "expiresAt": "2027-11-25",
+    "allowOffline": false
   }
 ]
