@@ -453,5 +453,12 @@
     "password": "123",
     "expiresAt": "2027-11-25",
     "allowOffline": false
+  },
+  {
+    "id": "b9cd3868efcc28f9",
+    "username": "Cipo",
+    "password": "000",
+    "expiresAt": "2027-11-25",
+    "allowOffline": false
   }
 ]
