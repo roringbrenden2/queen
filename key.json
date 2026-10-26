@@ -397,5 +397,12 @@
     "password": "123",
     "expiresAt": "2027-10-26",
     "allowOffline": false
+  },
+  {
+    "id": "88ad3e3ad0a1ab50",
+    "username": "Memek",
+    "password": "123",
+    "expiresAt": "2027-11-25",
+    "allowOffline": false
   }
 ]
