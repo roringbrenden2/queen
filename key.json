@@ -404,5 +404,12 @@
     "password": "123",
     "expiresAt": "2027-11-25",
     "allowOffline": false
+  },
+  {
+    "id": "aee574fefc15664d",
+    "username": "Otot",
+    "password": "123",
+    "expiresAt": "2027-11-25",
+    "allowOffline": false
   }
 ]
