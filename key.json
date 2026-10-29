@@ -564,6 +564,6 @@
     "username": "111",
     "password": "111",
     "expiresAt": "2028-01-27",
-    "allowOffline": true
+    "allowOffline": false
   }
 ]
