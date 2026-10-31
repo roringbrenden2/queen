@@ -3,7 +3,7 @@
     "id": "f828d6e117235a08",
     "username": "ciman",
     "password": "123",
-    "expiresAt": "2027-11-23",
+    "expiresAt": "2027-12-23",
     "allowOffline": false
   },
   {
@@ -640,6 +640,13 @@
     "id": "2831ca5e5843f275",
     "username": "Cipo1",
     "password": "123",
+    "expiresAt": "2027-11-30",
+    "allowOffline": false
+  },
+  {
+    "id": "550099d79bea1589",
+    "username": "111",
+    "password": "1111",
     "expiresAt": "2027-11-30",
     "allowOffline": false
   }
