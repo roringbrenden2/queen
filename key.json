@@ -824,5 +824,12 @@
     "password": "000",
     "expiresAt": "2028-02-04",
     "allowOffline": false
+  },
+  {
+    "id": "97c4a9c4126fc704",
+    "username": "JEKS",
+    "password": "000",
+    "expiresAt": "2028-02-05",
+    "allowOffline": false
   }
 ]
